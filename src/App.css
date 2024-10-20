@@ -66,7 +66,7 @@ body {
 /* inicio de banner */
 .Jumbotron {
     height: 400px;
-    background-image: url(../media/img/pan_dulce_duo-min.webp);
+    background-image: url(../public/img/pan_dulce_duo-min.webp);
     font-weight: bolder;
     background-position: center;
     background-size: cover;
@@ -81,7 +81,7 @@ body {
 .jumbotron-logo {
     height: 400px;
     max-width: 800px;
-    background-image: url(../media/img/logoObrador.png);
+    background-image: url(../public/img/logoObrador.png);
     font-weight: bolder;
     background-position: right;
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@ carrousel {
     border: 0px solid #F20707;
     border-radius: 25px;
     margin: 0 auto;
-    background-image: url(../media/img/pan_dulce_duo-min.webp);
+    background-image: url(../public/img/pan_dulce_duo-min.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -124,7 +124,7 @@ carrousel {
 
 /* inicio de presentacion de productos */
 .prod-left {
-    background-image: url(../media/img/pastafrola_cerca-min.webp);
+    background-image: url(../public/img/pastafrola_cerca-min.webp);
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -136,7 +136,7 @@ carrousel {
 }
 
 .prod2-left {
-    background-image: url(../media/img/pan_d_lado-min.webp);
+    background-image: url(../public/img/pan_d_lado-min.webp);
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -148,7 +148,7 @@ carrousel {
 }
 
 .prod3-left {
-    background-image: url(../media/img/pasta_rellena-min.webp);
+    background-image: url(../public/img/pasta_rellena-min.webp);
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -161,7 +161,7 @@ carrousel {
 /* fin de presentacion de productos */
 /* inicio de presentacion de sevicios */
 .serv-left {
-    background-image: url(../media/img/yo_cortando.webp);
+    background-image: url(../public/img/yo_cortando.webp);
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -173,7 +173,7 @@ carrousel {
 }
 
 .serv2-left {
-    background-image: url(../media/img/delivery-guy-1424808_1280.png);
+    background-image: url(../public/img/delivery-guy-1424808_1280.png);
     height: 200px;
     background-position: top;
     background-size: cover;
@@ -185,7 +185,7 @@ carrousel {
 }
 
 .serv3-left {
-    background-image: url(../media/img/alfajores_choco_p-min.webp);
+    background-image: url(../public/img/alfajores_choco_p-min.webp);
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -208,7 +208,7 @@ carrousel {
 .conteinerimg {
     height: 150px;
     width: 80%;
-    background-image: url(../../media/img/pan_d_lado-min.webp);
+    background-image: url(../../public/media/img/pan_d_lado-min.webp);
     background-position: center;
     background-size: cover;
     margin: 0 auto;
