@@ -21,20 +21,8 @@ function NavBar() {
                     <li className="nav-item">
                         <a className="nav-link" href="/category/3">Un poco de nuestra historia</a>
                     </li>
-                    <li className="nav-item style = display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #F2F2F2;
-  width: 90vw;
-  height: 80vh;
-  max-width: 600px;
-  max-height: 600px;
-  border: 1px solid black;
-  border-radius: 25px;
-  margin: auto;
-  padding: 15px;
-  overflow: auto;">
-                            <a className="nav-link" href="#" ><i className="fa-solid fa-cart-shopping"></i> <span className="badge bg-danger rounded-pill " id="carrito-box">0</span></a>
+                    <li className="nav-item">
+                            <a className="nav-link  " href="#" ><i className="fa-solid fa-cart-shopping"></i> <span className="badge bg-danger rounded-pill " id="carrito-box">0</span></a>
                         </li>
                 </ul>
             </div>
