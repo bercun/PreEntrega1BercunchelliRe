@@ -2,7 +2,7 @@
 
 function NavBar() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-3 ">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-light p-3 ">
             <a className="navbar-brand" href="/">El Obrador</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
@@ -27,7 +27,7 @@ function NavBar() {
                 </ul>
             </div>
         </nav>
-    )
+    );
 }
 
-export default NavBar
+export default NavBar;
