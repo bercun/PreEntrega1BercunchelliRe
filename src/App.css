@@ -81,7 +81,7 @@ body {
 .jumbotron-logo {
     height: 400px;
     max-width: 800px;
-    background-image: url(../public/img/logoObrador.png);
+    background-image: url(../img/logoObrador.png);
     font-weight: bolder;
     background-position: right;
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@ carrousel {
     border: 0px solid #F20707;
     border-radius: 25px;
     margin: 0 auto;
-    background-image: url(../public/img/pan_dulce_duo-min.webp);
+    background-image: url(./img/pan_dulce_duo-min.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -124,7 +124,7 @@ carrousel {
 
 /* inicio de presentacion de productos */
 .prod-left {
-    background-image: url(../public/img/pastafrola_cerca-min.webp);
+    background-image: url(./img/pastafrola_cerca-min.webp);
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -136,7 +136,7 @@ carrousel {
 }
 
 .prod2-left {
-    background-image: url(../public/img/pan_d_lado-min.webp);
+    background-image: url(./img/pan_d_lado-min.webp);
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -148,7 +148,7 @@ carrousel {
 }
 
 .prod3-left {
-    background-image: url(../public/img/pasta_rellena-min.webp);
+    background-image: url(./img/pasta_rellena-min.webp);
     height: 200px;
     background-position: center;
     background-size: cover;
